@@ -33,7 +33,7 @@ Or you ca use the CDN to pull the icons in your site.
 </head>
 ```
 
-To use the icons on your page, add the class `h`and a second class that start with the prefix `h-`followed by the icon name.
+To use the icons on your page, add the class `h` and a second class that start with the prefix `h-` followed by the icon name.
 
 ```html
 <i class="h h-hicon"></i>
