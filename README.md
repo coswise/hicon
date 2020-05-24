@@ -27,8 +27,6 @@ You can download it from this [link](https://github.com/coswise/css-hicons/blob/
 
 Or you ca use the CDN to pull the icons in your site.
 
-Instead of installing you may use the remote version 
-
 ```html
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/coswise/css-hicons@latest/fonts/hicons.min.css">
