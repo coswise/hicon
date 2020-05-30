@@ -29,7 +29,7 @@ Or you ca use the CDN to pull the icons in your site.
 
 ```html
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/coswise/css-hicons@latest/fonts/hicons.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/coswise/hicons-css@latest/web-fonts/hicons-v1.1.2.min.css">
 </head>
 ```
 
@@ -40,3 +40,5 @@ To use the icons on your page, add the class `h` and a second class that start w
 <i class="h h-arrow-right"></i>
 <i class="h h-dribbble"></i>
 ```
+
+
