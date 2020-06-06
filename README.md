@@ -42,4 +42,24 @@ To use the icons on your page, add the class `h` and a second class that start w
 <i class="h h-dribbble"></i>
 ```
 
+### Using via JS
 
+Start adding the js file and a short callback at the end of your document's `<body>`.
+You can download it from this [link](https://github.com/coswise/hicons-js) if you prefer a local setup.
+
+```html
+<body>
+  <script src="https://cdn.jsdelivr.net/gh/coswise/hicons-js@latest/hicons.min.js"></script>
+  <script>
+    feather.replace();
+  </script>
+</body>
+```
+
+To use the icons on your page, use the icon tag with `load-hicon` followed by the icon name.
+
+```html
+<i load-hicon="hicon"></i>
+<i load-hicon="arrow-right"></i>
+<i load-hicon="dribbble"></i>
+```
