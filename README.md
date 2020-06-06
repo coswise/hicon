@@ -30,7 +30,7 @@ Or you ca use the CDN to pull the icons on your site.
 
 ```html
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/coswise/hicons-css@latest/web-fonts/hicon.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/coswise/hicon-css@latest/web-fonts/hicon.min.css">
 </head>
 ```
 
@@ -49,7 +49,7 @@ You can download it from this [link](https://github.com/coswise/hicon-js) if you
 
 ```html
 <body>
-  <script src="https://cdn.jsdelivr.net/gh/coswise/hicons-js@latest/hicon.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/coswise/hicon-js@latest/hicon.min.js"></script>
   <script>
     feather.replace();
   </script>
