@@ -1,4 +1,4 @@
-# Hicons
+# Hicon
 https://hicons.cosm.ws
 
 [![Twitter](https://img.shields.io/static/v1?label=twitter&message=follow&color=1E9BEB)](https://twitter.com/CosWiSe)
@@ -18,11 +18,11 @@ Each icon is been designed on Figma using a 24x24 grid.
 ### Via CSS
 
 Start adding the stylesheet on your document `<head>`.
-You can download it from this [link](https://github.com/coswise/hicons-css) if you prefer a local setup.
+You can download it from this [link](https://github.com/coswise/hicon-css) if you prefer a local setup.
 
 ```html
 <head>
-  <link rel="stylesheet" href="hicons.min.css">
+  <link rel="stylesheet" href="hicon.min.css">
 </head>
 ```
 
@@ -30,7 +30,7 @@ Or you ca use the CDN to pull the icons on your site.
 
 ```html
 <head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/coswise/hicons-css@latest/web-fonts/hicons.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/coswise/hicons-css@latest/web-fonts/hicon.min.css">
 </head>
 ```
 
@@ -45,11 +45,11 @@ To use the icons on your page, add the class `h` and a second class that start w
 ### Via JS
 
 Start adding the JS file and a short callback at the end of your document `<body>`.
-You can download it from this [link](https://github.com/coswise/hicons-js) if you prefer a local setup.
+You can download it from this [link](https://github.com/coswise/hicon-js) if you prefer a local setup.
 
 ```html
 <body>
-  <script src="https://cdn.jsdelivr.net/gh/coswise/hicons-js@latest/hicons.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/coswise/hicons-js@latest/hicon.min.js"></script>
   <script>
     feather.replace();
   </script>
