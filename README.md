@@ -1,4 +1,4 @@
-# Hicon
+# Hicons
 https://hicons.cosm.ws
 
 [![Twitter](https://img.shields.io/static/v1?label=twitter&message=follow&color=1E9BEB)](https://twitter.com/CosWiSe)
@@ -7,8 +7,8 @@ https://hicons.cosm.ws
 
 
 
-## What about Hicon?
-Hicon is a simple vetor icons set realised with Figma and crafted for designers and develipers.
+## What about Hicons?
+Hicons is a simple vector icon pack realised with Figma and crafted for designers and develipers.
 The idea is to create an open source icons with a consistent and minimal design. 
 
 Each icon is been designed on Figma using a 24x24 grid.
