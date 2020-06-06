@@ -16,8 +16,9 @@ Each icon is been designed on Figma using a 24x24 grid.
 ## Usage
 
 ### Using via CSS
+
 Start adding the stylesheet in your document's `<head>`.
-You can download it from this [link](https://github.com/coswise/css-hicons/blob/master/fonts/hicons.min.css) if you prefer a local setup.
+You can download it from this [link](https://github.com/coswise/hicons-css) if you prefer a local setup.
 
 ```html
 <head>
