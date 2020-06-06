@@ -8,16 +8,16 @@ https://hicons.cosm.ws
 
 
 ## What about Hicons?
-Hicons is a simple vector icon pack realised with Figma and crafted for designers and develipers.
-The idea is to create an open source icons with a consistent and minimal design. 
+Hicons is a simple vector icon pack crafted for designers and developers.<br>
+The idea is to create an open source asset with consistent and minimal design. 
 
 Each icon is been designed on Figma using a 24x24 grid.
 
 ## Usage
 
-### Using via CSS
+### Via CSS
 
-Start adding the stylesheet in your document's `<head>`.
+Start adding the stylesheet on your document `<head>`.
 You can download it from this [link](https://github.com/coswise/hicons-css) if you prefer a local setup.
 
 ```html
@@ -26,7 +26,7 @@ You can download it from this [link](https://github.com/coswise/hicons-css) if y
 </head>
 ```
 
-Or you ca use the CDN to pull the icons in your site.
+Or you ca use the CDN to pull the icons on your site.
 
 ```html
 <head>
@@ -34,7 +34,7 @@ Or you ca use the CDN to pull the icons in your site.
 </head>
 ```
 
-To use the icons on your page, add the class `h` and a second class that start with the prefix `h-` followed by the icon name.
+To use the icons on your page, add the class `h` and a second class that start with the prefix `h-` followed by the icon's name.
 
 ```html
 <i class="h h-hicon"></i>
@@ -42,9 +42,9 @@ To use the icons on your page, add the class `h` and a second class that start w
 <i class="h h-dribbble"></i>
 ```
 
-### Using via JS
+### Via JS
 
-Start adding the js file and a short callback at the end of your document's `<body>`.
+Start adding the JS file and a short callback at the end of your document `<body>`.
 You can download it from this [link](https://github.com/coswise/hicons-js) if you prefer a local setup.
 
 ```html
@@ -56,10 +56,19 @@ You can download it from this [link](https://github.com/coswise/hicons-js) if yo
 </body>
 ```
 
-To use the icons on your page, use the icon tag with `load-hicon` followed by the icon name.
+To use the icons on your page, use the icon tag with `load-hicon` followed by the icon's name.
 
 ```html
 <i load-hicon="hicon"></i>
 <i load-hicon="arrow-right"></i>
 <i load-hicon="dribbble"></i>
 ```
+
+## Got any feedback or want to contribute?
+Feel free to use the follow [Google Form](https://docs.google.com/forms/d/1cL-D9V5BozdThCYlTOdlYDpyY48pjJb9hkpwKm1UiN4/prefill?pli=1).
+
+## Figma Source
+Check my work on Figma from [here](https://www.figma.com/file/42BwBxXLl656mLxaQCHJ3t/Hicon-Pack?node-id=0%3A1).
+
+## License
+[MIT License](https://github.com/colebemis/feather/blob/master/LICENSE).
