@@ -51,7 +51,7 @@ You can download it from this [link](https://github.com/coswise/hicon-js) if you
 <body>
   <script src="https://cdn.jsdelivr.net/gh/coswise/hicon-js@latest/hicon.min.js"></script>
   <script>
-    feather.replace();
+    hicon.replace();
   </script>
 </body>
 ```
