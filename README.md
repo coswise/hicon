@@ -1,5 +1,5 @@
 # Hicon
-https://hicons.cosm.ws
+[https://cosm.ws/hicon/](https://cosm.ws/hicon/)
 
 [![Twitter](https://img.shields.io/static/v1?label=twitter&message=follow&color=1E9BEB)](https://twitter.com/CosWiSe)
 [![Dribbble](https://img.shields.io/static/v1?label=dribbble&message=visit&color=EA4C88)](https://dribbble.com/coswise)
