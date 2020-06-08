@@ -65,7 +65,7 @@ To use the icons on your page, use the icon tag with `load-hicon` followed by th
 ```
 
 ## Got any feedback or want to contribute?
-Feel free to use the follow [Google Form](https://docs.google.com/forms/d/1cL-D9V5BozdThCYlTOdlYDpyY48pjJb9hkpwKm1UiN4/prefill?pli=1).
+Feel free to use the follow [Google Form](https://forms.gle/MfgyfSpiX8Er6xeN6).
 
 ## Figma Source
 Check my work on Figma from [here](https://www.figma.com/file/42BwBxXLl656mLxaQCHJ3t/Hicon-Pack?node-id=0%3A1).
