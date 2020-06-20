@@ -72,3 +72,4 @@ Check my work on Figma from [here](https://www.figma.com/file/42BwBxXLl656mLxaQC
 
 ## License
 [MIT License](https://github.com/colebemis/feather/blob/master/LICENSE).
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0)
