@@ -71,5 +71,5 @@ Feel free to use the follow [Google Form](https://forms.gle/MfgyfSpiX8Er6xeN6).
 Check my work on Figma from [here](https://www.figma.com/file/42BwBxXLl656mLxaQCHJ3t/Hicon-Pack?node-id=0%3A1).
 
 ## License
-[MIT License](https://github.com/colebemis/feather/blob/master/LICENSE).
-[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0)
+[MIT License](https://github.com/colebemis/feather/blob/master/LICENSE).<br>
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
