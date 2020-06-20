@@ -8,7 +8,7 @@
 
 
 ## What about Hicon?
-Hicon is a simple vector icon pack crafted for designers and developers.<br>
+Hicon is a simple vector icon pack crafted for designers and developers, free and continuously growing.<br>
 The idea is to create an open source asset with consistent and minimal design. 
 
 Each icon is been designed on Figma using a 24x24 grid.
