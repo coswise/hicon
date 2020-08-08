@@ -14,8 +14,30 @@ The idea is to create an open source asset with consistent and minimal design.
 Each icon is been designed on Figma using a 24x24 grid.
 
 ## Usage
+### Via JS (Recommended)
+
+Start adding the JS file and a short callback at the end of your document `<body>`.
+You can download it from this [link](https://github.com/coswise/hicon-js) if you prefer a local setup.
+
+```html
+<body>
+  <script src="https://cdn.jsdelivr.net/gh/coswise/hicon-js@latest/hicon.min.js"></script>
+  <script>
+    hicon.replace();
+  </script>
+</body>
+```
+
+To use the icons on your page, use the icon tag with `load-hicon` followed by the icon's name.
+
+```html
+<i load-hicon="hicon"></i>
+<i load-hicon="arrow-right"></i>
+<i load-hicon="dribbble"></i>
+```
 
 ### Via CSS
+### Important - The WebFont is not update with the new version.
 
 Start adding the stylesheet on your document `<head>`.
 You can download it from this [link](https://github.com/coswise/hicon-css) if you prefer a local setup.
@@ -40,28 +62,6 @@ To use the icons on your page, add the class `h` and a second class that start w
 <i class="h h-hicon"></i>
 <i class="h h-arrow-right"></i>
 <i class="h h-dribbble"></i>
-```
-
-### Via JS
-
-Start adding the JS file and a short callback at the end of your document `<body>`.
-You can download it from this [link](https://github.com/coswise/hicon-js) if you prefer a local setup.
-
-```html
-<body>
-  <script src="https://cdn.jsdelivr.net/gh/coswise/hicon-js@latest/hicon.min.js"></script>
-  <script>
-    hicon.replace();
-  </script>
-</body>
-```
-
-To use the icons on your page, use the icon tag with `load-hicon` followed by the icon's name.
-
-```html
-<i load-hicon="hicon"></i>
-<i load-hicon="arrow-right"></i>
-<i load-hicon="dribbble"></i>
 ```
 
 ## Got any feedback or want to contribute?
