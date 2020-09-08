@@ -73,3 +73,6 @@ Check my work on Figma from [here](https://www.figma.com/file/42BwBxXLl656mLxaQC
 ## License
 [MIT License](https://github.com/colebemis/feather/blob/master/LICENSE).<br>
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0).
+
+## Contact
+Email: <a href="mailto:hicon@cosm.ws" target="_blank">hicon@cosm.ws</a>
