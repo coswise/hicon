@@ -37,7 +37,7 @@ To use the icons on your page, use the icon tag with `load-hicon` followed by th
 ```
 
 ### Via CSS
-### Important - The WebFont is not update with the new version.
+### !NOTICE! - The WebFont is not update with the new version.
 
 Start adding the stylesheet on your document `<head>`.
 You can download it from this [link](https://github.com/coswise/hicon-css) if you prefer a local setup.
